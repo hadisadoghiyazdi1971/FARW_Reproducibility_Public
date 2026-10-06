@@ -1,0 +1,121 @@
+scenario,scenario_name,feature_original_index,feature_original_index_zero_based,feature_name,final_rank,elimination_step,importance_when_removed
+1,Scenario 1: Intermediate Depth-of-Cut,8,7,Peak_to_Peak,1,40,
+1,Scenario 1: Intermediate Depth-of-Cut,22,21,Window_to_Record_Energy_Ratio,2,39,0.1056529931468413
+1,Scenario 1: Intermediate Depth-of-Cut,33,32,Spectral_Energy,3,38,0.04210722920376519
+1,Scenario 1: Intermediate Depth-of-Cut,35,34,Spectral_Entropy,4,37,0.02567486677832535
+1,Scenario 1: Intermediate Depth-of-Cut,27,26,Magnitude_Spectral_Bandwidth,5,36,0.013776206432558757
+1,Scenario 1: Intermediate Depth-of-Cut,21,20,Time_Domain_Energy,6,35,0.010411539109231564
+1,Scenario 1: Intermediate Depth-of-Cut,32,31,Spectral_Rolloff_85,7,34,0.0076529387798556624
+1,Scenario 1: Intermediate Depth-of-Cut,5,4,Coefficient_of_Variation,8,33,0.0040194491315168205
+1,Scenario 1: Intermediate Depth-of-Cut,30,29,Power_Spectral_Kurtosis,9,32,0.0015016526262851507
+1,Scenario 1: Intermediate Depth-of-Cut,1,0,Mean,10,31,0.0013346446093941728
+1,Scenario 1: Intermediate Depth-of-Cut,3,2,Standard_Deviation,11,30,0.0006829085270601866
+1,Scenario 1: Intermediate Depth-of-Cut,37,36,MPE_s4,12,29,0.0007886205387419834
+1,Scenario 1: Intermediate Depth-of-Cut,7,6,Peak_Absolute_Amplitude,13,28,0.00041496108766722617
+1,Scenario 1: Intermediate Depth-of-Cut,26,25,Magnitude_Spectral_Centroid,14,27,0.0005058502574413202
+1,Scenario 1: Intermediate Depth-of-Cut,15,14,Shape_Factor,15,26,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,34,33,Spectral_Flatness,16,25,0.00027094654452529263
+1,Scenario 1: Intermediate Depth-of-Cut,36,35,Peak_Frequency_Ratio,17,24,0.00014163118957878873
+1,Scenario 1: Intermediate Depth-of-Cut,29,28,Power_Spectral_Skewness,18,23,0.00012960270338250392
+1,Scenario 1: Intermediate Depth-of-Cut,17,16,Skewness_Factor,19,22,7.050739603451887e-05
+1,Scenario 1: Intermediate Depth-of-Cut,20,19,Lag1_Autocorrelation,20,21,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,28,27,Frequency_Standard_Deviation,21,20,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,23,22,Mean_Spectral_Power,22,19,7.128148686037717e-05
+1,Scenario 1: Intermediate Depth-of-Cut,39,38,Wavelet_Packet_Energy_Entropy,23,18,4.0512129155732605e-05
+1,Scenario 1: Intermediate Depth-of-Cut,31,30,Median_Frequency,24,17,1.8094890218896267e-06
+1,Scenario 1: Intermediate Depth-of-Cut,38,37,DC_Removed_Envelope_Spectrum_Crest_Factor,25,16,3.5133005479385355e-05
+1,Scenario 1: Intermediate Depth-of-Cut,40,39,wRCMDE_s1,26,15,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,24,23,Power_Spectral_Centroid,27,14,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,12,11,Mean_Absolute_Amplitude,28,13,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,19,18,Zero_Crossing_Rate,29,12,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,25,24,RMS_Frequency,30,11,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,13,12,Square_Root_Amplitude,31,10,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,18,17,Kurtosis_Factor,32,9,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,16,15,Impulse_Factor,33,8,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,14,13,Clearance_Factor,34,7,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,10,9,Kurtosis,35,6,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,11,10,Crest_Factor,36,5,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,9,8,Skewness,37,4,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,4,3,Hjorth_Complexity,38,3,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,2,1,Median,39,2,0.0
+1,Scenario 1: Intermediate Depth-of-Cut,6,5,RMS,40,1,0.0
+2,Scenario 2: Unseen Speed–Feed,8,7,Peak_to_Peak,1,40,
+2,Scenario 2: Unseen Speed–Feed,22,21,Window_to_Record_Energy_Ratio,2,39,0.09806771266604804
+2,Scenario 2: Unseen Speed–Feed,33,32,Spectral_Energy,3,38,0.05680009877078259
+2,Scenario 2: Unseen Speed–Feed,35,34,Spectral_Entropy,4,37,0.02964138335952278
+2,Scenario 2: Unseen Speed–Feed,32,31,Spectral_Rolloff_85,5,36,0.02042287639479827
+2,Scenario 2: Unseen Speed–Feed,1,0,Mean,6,35,0.014601681095032532
+2,Scenario 2: Unseen Speed–Feed,18,17,Kurtosis_Factor,7,34,0.0116100385755078
+2,Scenario 2: Unseen Speed–Feed,30,29,Power_Spectral_Kurtosis,8,33,0.008839783887776212
+2,Scenario 2: Unseen Speed–Feed,26,25,Magnitude_Spectral_Centroid,9,32,0.00701075125335387
+2,Scenario 2: Unseen Speed–Feed,27,26,Magnitude_Spectral_Bandwidth,10,31,0.004048639091392745
+2,Scenario 2: Unseen Speed–Feed,28,27,Frequency_Standard_Deviation,11,30,0.0019264839282244885
+2,Scenario 2: Unseen Speed–Feed,34,33,Spectral_Flatness,12,29,0.001512651226094992
+2,Scenario 2: Unseen Speed–Feed,29,28,Power_Spectral_Skewness,13,28,0.0024419407159972056
+2,Scenario 2: Unseen Speed–Feed,6,5,RMS,14,27,0.0008934103132603213
+2,Scenario 2: Unseen Speed–Feed,21,20,Time_Domain_Energy,15,26,0.00015278344900492987
+2,Scenario 2: Unseen Speed–Feed,5,4,Coefficient_of_Variation,16,25,0.0017328907216201592
+2,Scenario 2: Unseen Speed–Feed,3,2,Standard_Deviation,17,24,0.0010677380430471994
+2,Scenario 2: Unseen Speed–Feed,4,3,Hjorth_Complexity,18,23,2.038500633130879e-05
+2,Scenario 2: Unseen Speed–Feed,31,30,Median_Frequency,19,22,0.0004331080690903202
+2,Scenario 2: Unseen Speed–Feed,25,24,RMS_Frequency,20,21,0.00029488924953974434
+2,Scenario 2: Unseen Speed–Feed,7,6,Peak_Absolute_Amplitude,21,20,0.0004594280599279522
+2,Scenario 2: Unseen Speed–Feed,37,36,MPE_s4,22,19,0.0003306085024926721
+2,Scenario 2: Unseen Speed–Feed,40,39,wRCMDE_s1,23,18,0.00022209465585571185
+2,Scenario 2: Unseen Speed–Feed,23,22,Mean_Spectral_Power,24,17,0.00044502781557538356
+2,Scenario 2: Unseen Speed–Feed,39,38,Wavelet_Packet_Energy_Entropy,25,16,0.00023849487984651033
+2,Scenario 2: Unseen Speed–Feed,24,23,Power_Spectral_Centroid,26,15,8.77242407291148e-05
+2,Scenario 2: Unseen Speed–Feed,13,12,Square_Root_Amplitude,27,14,0.0
+2,Scenario 2: Unseen Speed–Feed,11,10,Crest_Factor,28,13,0.00010198911071683701
+2,Scenario 2: Unseen Speed–Feed,15,14,Shape_Factor,29,12,0.0001604758768000786
+2,Scenario 2: Unseen Speed–Feed,19,18,Zero_Crossing_Rate,30,11,0.0
+2,Scenario 2: Unseen Speed–Feed,36,35,Peak_Frequency_Ratio,31,10,0.0001582472008348442
+2,Scenario 2: Unseen Speed–Feed,10,9,Kurtosis,32,9,0.0001001404960594752
+2,Scenario 2: Unseen Speed–Feed,2,1,Median,33,8,0.0
+2,Scenario 2: Unseen Speed–Feed,38,37,DC_Removed_Envelope_Spectrum_Crest_Factor,34,7,0.0
+2,Scenario 2: Unseen Speed–Feed,20,19,Lag1_Autocorrelation,35,6,0.0
+2,Scenario 2: Unseen Speed–Feed,16,15,Impulse_Factor,36,5,0.0
+2,Scenario 2: Unseen Speed–Feed,17,16,Skewness_Factor,37,4,0.0
+2,Scenario 2: Unseen Speed–Feed,12,11,Mean_Absolute_Amplitude,38,3,0.0
+2,Scenario 2: Unseen Speed–Feed,14,13,Clearance_Factor,39,2,0.0
+2,Scenario 2: Unseen Speed–Feed,9,8,Skewness,40,1,0.0
+3,Scenario 3: Cross-Geometry,8,7,Peak_to_Peak,1,40,
+3,Scenario 3: Cross-Geometry,35,34,Spectral_Entropy,2,39,0.08598285447768492
+3,Scenario 3: Cross-Geometry,12,11,Mean_Absolute_Amplitude,3,38,0.019810417091651128
+3,Scenario 3: Cross-Geometry,34,33,Spectral_Flatness,4,37,0.016275003046749052
+3,Scenario 3: Cross-Geometry,22,21,Window_to_Record_Energy_Ratio,5,36,0.011884738483212302
+3,Scenario 3: Cross-Geometry,33,32,Spectral_Energy,6,35,0.005640163909878944
+3,Scenario 3: Cross-Geometry,3,2,Standard_Deviation,7,34,0.003192270160317912
+3,Scenario 3: Cross-Geometry,30,29,Power_Spectral_Kurtosis,8,33,0.0017464157070756037
+3,Scenario 3: Cross-Geometry,27,26,Magnitude_Spectral_Bandwidth,9,32,0.0003793653192635256
+3,Scenario 3: Cross-Geometry,40,39,wRCMDE_s1,10,31,0.0
+3,Scenario 3: Cross-Geometry,37,36,MPE_s4,11,30,0.00012285027759468222
+3,Scenario 3: Cross-Geometry,21,20,Time_Domain_Energy,12,29,0.0
+3,Scenario 3: Cross-Geometry,39,38,Wavelet_Packet_Energy_Entropy,13,28,0.0
+3,Scenario 3: Cross-Geometry,25,24,RMS_Frequency,14,27,0.0
+3,Scenario 3: Cross-Geometry,38,37,DC_Removed_Envelope_Spectrum_Crest_Factor,15,26,0.0
+3,Scenario 3: Cross-Geometry,36,35,Peak_Frequency_Ratio,16,25,0.0
+3,Scenario 3: Cross-Geometry,32,31,Spectral_Rolloff_85,17,24,0.0
+3,Scenario 3: Cross-Geometry,31,30,Median_Frequency,18,23,0.0
+3,Scenario 3: Cross-Geometry,24,23,Power_Spectral_Centroid,19,22,0.0
+3,Scenario 3: Cross-Geometry,28,27,Frequency_Standard_Deviation,20,21,0.0
+3,Scenario 3: Cross-Geometry,29,28,Power_Spectral_Skewness,21,20,0.0
+3,Scenario 3: Cross-Geometry,23,22,Mean_Spectral_Power,22,19,0.0
+3,Scenario 3: Cross-Geometry,20,19,Lag1_Autocorrelation,23,18,0.0
+3,Scenario 3: Cross-Geometry,26,25,Magnitude_Spectral_Centroid,24,17,0.0
+3,Scenario 3: Cross-Geometry,19,18,Zero_Crossing_Rate,25,16,0.0
+3,Scenario 3: Cross-Geometry,18,17,Kurtosis_Factor,26,15,0.0
+3,Scenario 3: Cross-Geometry,17,16,Skewness_Factor,27,14,0.0
+3,Scenario 3: Cross-Geometry,16,15,Impulse_Factor,28,13,0.0
+3,Scenario 3: Cross-Geometry,15,14,Shape_Factor,29,12,0.0
+3,Scenario 3: Cross-Geometry,14,13,Clearance_Factor,30,11,0.0
+3,Scenario 3: Cross-Geometry,11,10,Crest_Factor,31,10,0.0
+3,Scenario 3: Cross-Geometry,13,12,Square_Root_Amplitude,32,9,0.0
+3,Scenario 3: Cross-Geometry,9,8,Skewness,33,8,0.0
+3,Scenario 3: Cross-Geometry,6,5,RMS,34,7,0.0
+3,Scenario 3: Cross-Geometry,10,9,Kurtosis,35,6,0.0
+3,Scenario 3: Cross-Geometry,7,6,Peak_Absolute_Amplitude,36,5,0.0
+3,Scenario 3: Cross-Geometry,4,3,Hjorth_Complexity,37,4,0.0
+3,Scenario 3: Cross-Geometry,5,4,Coefficient_of_Variation,38,3,0.0
+3,Scenario 3: Cross-Geometry,2,1,Median,39,2,0.0
+3,Scenario 3: Cross-Geometry,1,0,Mean,40,1,0.0

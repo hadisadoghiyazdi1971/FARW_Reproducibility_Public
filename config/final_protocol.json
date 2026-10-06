@@ -1,0 +1,12 @@
+{
+  "random_seeds": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
+  "retention_levels": [0.1, 0.2, 0.3, 0.4, 0.5],
+  "reduction_descriptor_count": 40,
+  "classification_descriptor_indices_zero_based": [7, 21, 32],
+  "classification_descriptor_names": ["Peak_to_Peak", "Window_to_Record_Energy_Ratio", "Spectral_Energy"],
+  "scenarios": ["intermediate_depth_of_cut", "unseen_speed_feed", "cross_geometry"],
+  "selection_scope": "within_each_training_recording",
+  "index_base": 0,
+  "data_directory": "data/recordings",
+  "selected_index_bank": "config/public_selection_bank.json.gz"
+}
